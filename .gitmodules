@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/AmrMohamed27/threadit-web
+[submodule "backend"]
+	path = backend
+	url = https://github.com/AmrMohamed27/threadit-server
