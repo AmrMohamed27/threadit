@@ -1,4 +1,4 @@
-# Reddit Clone
+# Threadit
 
 ![Status is Active](https://img.shields.io/badge/status-active-brightgreen) ![License is MIT](https://img.shields.io/badge/license-MIT-blue)
 
